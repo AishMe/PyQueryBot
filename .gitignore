@@ -1,0 +1,44 @@
+# Python-related files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+*.manifest
+*.spec
+
+# Environment variables
+.env
+
+# Service account key files
+*.json
+
+# Virtual environment directories
+venv/
+env/
+.venv/
+.python-version
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# macOS-specific files
+.DS_Store
+
+# Byte-compiled Python files
+*.pyc
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# System files
+Thumbs.db
+.DS_Store
+
+# IDE-specific files
+.vscode/
+.idea/
